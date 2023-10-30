@@ -21,7 +21,7 @@ const store = useTaskStore()
       <Tasks type="notCompleted" :tasks="store.notCompletedTasks" />
     </div>
     <!-- new task -->
-    <div class="px-3 md:px-0 absolute bottom-0 pb-12 w-full">
+    <div class="px-3 md:px-0 absolute bottom-0 pb-12 w-full bg-white">
       <NewTask />
     </div>
   </Main>

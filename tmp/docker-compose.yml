@@ -1,6 +1,6 @@
 version: '3'
 services:
   vue-todo:
-    image: farshidgh70/vue-todo:v1
+    image: farshidgh70/vue-todo:v2
     ports:
       - "8080:8080"

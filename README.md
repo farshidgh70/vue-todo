@@ -17,11 +17,11 @@ docker-compose down
 ## Setup using docker
 
 ```sh
-docker pull farshidgh70/vue-todo:v1
+docker pull farshidgh70/vue-todo:v2
 ```
 
 ```sh
-docker run -p 8080:8080 farshidgh70/vue-todo:v1
+docker run -p 8080:8080 farshidgh70/vue-todo:v2
 ```
 
 ## Setup on Development
